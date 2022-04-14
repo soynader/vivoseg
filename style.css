@@ -4,6 +4,10 @@
   box-sizing: border-box;
   font-family: 'Poppins', sans-serif;
 }
+@font-face {
+  font-family: Nasalization Italic;
+  src: url(nasalizationItalic.ttf);
+}
 /*header nav logo nav-menu menu-item menu-link*/
 
 .header{
