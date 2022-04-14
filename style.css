@@ -92,7 +92,7 @@
       background-size: cover;
       height: auto;
       width: 100% ; 
-      color: #aa0000ff;
+      color: #ffffff;
       text-align: center; 
       padding-top: 80px;   
    }
@@ -112,7 +112,7 @@
   .banner-seccion h1{
       font-size: 40px;
       padding: 20px 30px 20px 30px;
-      color: #000000;
+      color: #aa0000ff;
   }
   .banner-seccion h2{
       padding: 0px 30px 20px 30px;
@@ -309,7 +309,6 @@ color: #fff;
 }
   .banner-seccion h2{
   font-size: 20px;
-    color: #ffffff;
 }
   }
   
