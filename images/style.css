@@ -16,9 +16,8 @@
     font-style: italic;
     font-display: swap;
 }
-.vivoseg {
-  font-family: 'Nasalization';
-}
+@import url('https://vivoseg.com/Nasalization-Italic.svg');
+@import url('https://vivoseg.com/nasalizationItalic.ttf');
 /*header nav logo nav-menu menu-item menu-link*/
 
 .header{
