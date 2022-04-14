@@ -16,6 +16,9 @@
     font-style: italic;
     font-display: swap;
 }
+.vivoseg {
+  font-family: 'Nasalization';
+}
 /*header nav logo nav-menu menu-item menu-link*/
 
 .header{
